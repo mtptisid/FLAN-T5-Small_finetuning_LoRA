@@ -104,9 +104,6 @@ The model’s performance was evaluated qualitatively during development, with o
 ## Contributing
 Contributions are welcome! Please refer to the GitHub repository ([mtptisid/FLAN-T5-Small_finetuning_LoRA](https://github.com/mtptisid/FLAN-T5-Small_finetuning_LoRA)) for guidelines on submitting issues, pull requests, or additional datasets. Suggestions for improving the model, dataset, or documentation are appreciated.
 
-## License
-The model and code are licensed under the MIT License, allowing for free use, modification, and distribution. The `mtpti5iD/redhat-docs_dataset` may have its own licensing terms; please verify with the dataset owner.
-
 ## Acknowledgments
 - **Google FLAN-T5 Team**: For providing the base `flan-t5-small` model.
 - **Hugging Face**: For hosting the model, dataset, and providing the `transformers` and `datasets` libraries.
